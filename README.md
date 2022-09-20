@@ -1,6 +1,6 @@
 # OpenCV
 
-En este repositorio se encuentran algunos ejemplos de los prinicipios de herramientas y utilidades que nos ofrece OpenCV
+#### En este repositorio se encuentran algunos ejemplos de los prinicipios de herramientas y utilidades que nos ofrece OpenCV
 entre los archivos de muestra se encuentran temas como:
 <ul>
 <li>Lectura de imágenes con CV2</li>
@@ -19,12 +19,17 @@ entre los archivos de muestra se encuentran temas como:
 <li>Redimensionamiento de imágenes</li>
 <li>Corte o selección de un área de imagen </li>
 </ul>
-
-
-
-
-
-
-
-
+#### Asi como algunos temas más avanzados como:
+<ul>
+<li>Transformación de imágenes</li>
+<li>Detección de contorno y espacios de colores</li>
+<li>Suavizado y desenfoque</li>
+<li>BITWISE Operations</li>
+<li>Enmascaramiento y umbralización</li>
+<li>Computación de histogramas</li>
+<li>Detección de rostros (Imagenes y video)</li>
+<li>Reconocimiento de rostros (Imagenes y video) </li>
+<li>Reconocimiento de patrones</li>
+<li>Introducción a la creación de un modelo de "Deep Computer Vision"</li>
+</ul>
 

@@ -1,7 +1,7 @@
 # OpenCV
 
 #### En este repositorio se encuentran algunos ejemplos de los prinicipios de herramientas y utilidades que nos ofrece OpenCV
-entre los archivos de muestra se encuentran temas como:
+Entre los archivos de muestra se encuentran temas como:
 <ul>
 <li>Lectura de imágenes con CV2</li>
 <li>Lectura de videos</li>

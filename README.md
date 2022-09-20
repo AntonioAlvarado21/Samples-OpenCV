@@ -19,6 +19,7 @@ entre los archivos de muestra se encuentran temas como:
 <li>Redimensionamiento de imágenes</li>
 <li>Corte o selección de un área de imagen </li>
 </ul>
+
 #### Asi como algunos temas más avanzados como:
 <ul>
 <li>Transformación de imágenes</li>
